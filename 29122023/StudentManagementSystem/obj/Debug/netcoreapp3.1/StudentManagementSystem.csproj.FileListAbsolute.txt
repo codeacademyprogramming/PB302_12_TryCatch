@@ -1,0 +1,14 @@
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.exe
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.deps.json
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.runtimeconfig.dev.json
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.dll
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.pdb
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.dll
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.pdb
+C:\Users\elchin\Desktop\CodeLessons\12. 29-12-2023\29122023\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.genruntimeconfig.cache
